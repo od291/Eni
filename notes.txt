@@ -1,0 +1,3 @@
+https://blog.digitalcook.fr/glpi/#:~:text=GLPI%20est%20un%20logiciel%20libre%20de%20gestion%20de,leurs%20syst%C3%A8mes%20d%E2%80%99information%20de%20mani%C3%A8re%20compl%C3%A8te%20et%20efficace., consulté le 06/11/2024
+
+https://www.zabbix.com/documentation/1.8/fr/manual/about/overview_of_zabbix

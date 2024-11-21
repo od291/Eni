@@ -1,0 +1,5 @@
+https://www.clemanet.com/hp/configuration-cli.php consulté le 23/10/2024
+
+https://www.clemanet.com/hp/configuration-vlan.php
+
+https://techexpert.tips/fr/zabbix-fr/zabbix-monitor-hp-switch-utilisant-snmp/
